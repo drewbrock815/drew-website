@@ -121,10 +121,10 @@ params:
 menu:
   main:
     - name: Everything
-      url: everything
+      url: /everything
       weight: 5
     - name: Search
-      url: search/
+      url: /search/
       weight: 10
     - name: Tags
       url: /tags/
@@ -132,8 +132,8 @@ menu:
     - name: Portfolio
       url: /portfolio/
       weight: 30
-    - name: Résumé
-      url: /resume/
+    - name: Resume
+      url: resume.pdf
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
