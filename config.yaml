@@ -70,13 +70,11 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >
-      This is a general collection of who I am. 
+      This is a general collection of my work. 
 
       - Primarily I want to share my writing.
 
       - However, this is also my portfolio of technical writing and development work.
-
-      - I also have content on other platforms including book reviews, literary analysis, and more!
 
   socialIcons:
     - name: Rss
